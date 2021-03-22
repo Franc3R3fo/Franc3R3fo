@@ -13,4 +13,4 @@ My future projects:
   --  a nice TestUnit Web Platform
 --->
 Currently my repo space is practically empty. 
-By the end of the year I plan to upload some that I have locally.
+By the end of the year I plan to upload some projects that I have locally.
