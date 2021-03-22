@@ -12,3 +12,5 @@ My future projects:
   --  a little x86_64 os
   --  a nice TestUnit Web Platform
 --->
+Currently my repo space is practically empty. 
+By the end of the year I plan to upload some that I have locally.
