@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francesco Refolli
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Informatica@Bicocca
-- 💞️ I’m looking to collaborate on Java Standard Library in order to add nextChar() in Scanner class
+- 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 <!---
 Franc3R3fo/Franc3R3fo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
