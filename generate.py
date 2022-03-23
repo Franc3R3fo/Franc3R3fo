@@ -108,7 +108,7 @@ class Generators:
     
     @staticmethod
     def getWATERMARK():
-        return f"\n<center> {datetime.date.today()} - Generated with windflaag::generate.py </center>\n"
+        return f"\n##### README Credits\nGenerated with windflaag::generate.py on {datetime.date.today()}\n"
 
 config = {
     "BIO": {
