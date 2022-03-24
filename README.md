@@ -25,12 +25,6 @@
     </tr>
     </table>
 </center>
-
-<p align="center">
-
-![GRAPH](https://activity-graph.herokuapp.com/graph?username=windflaag&hide_border=true&theme=redical)
-
-</p>
         
 ### Active projects
 |project | description | languages | current sprint deadline|
