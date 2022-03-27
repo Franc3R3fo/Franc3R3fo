@@ -7,13 +7,13 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-lightgrey.svg) ![C++](https://img.shields.io/badge/-C++-lightred.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightgrey.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-lightyellow.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightgreen.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-violet.svg)
+![C](https://img.shields.io/badge/-C-grey.svg) ![C++](https://img.shields.io/badge/-C++-lightgrey.svg) ![JAVA](https://img.shields.io/badge/-JAVA-red.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-grey.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightyellow.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-lightred.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-lightgreen.svg) ![ARCH](https://img.shields.io/badge/-ARCH-orange.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-violet.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-violet.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightred.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-grey.svg) ![ARCH](https://img.shields.io/badge/-ARCH-grey.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-lightred.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-red.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightgreen.svg)
 
 ### Editors i use
-![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-blue.svg) ![VIM](https://img.shields.io/badge/-VIM-lightviolet.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-lightyellow.svg) ![MICRO](https://img.shields.io/badge/-MICRO-violet.svg)
+![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightred.svg) ![VIM](https://img.shields.io/badge/-VIM-lightgrey.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-violet.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightred.svg)
 
 ### My Github statistics
 
@@ -32,11 +32,20 @@
 
 </p>
         
+### Closed projects
+|project | description | languages | close date|
+|------- | ----------- | --------- | ----------|
+|nord | a dialect of lisp with its REPL interpreter | C++ | 27/03/2022|
+
 ### Active projects
 |project | description | languages | current sprint deadline|
 |------- | ----------- | --------- | -----------------------|
-|nord | a dialect of lisp with its REPL interpreter | C++ | mid april 2022|
 |concurrency | experiments about concurrency | C++ | mid april 2022|
+
+### Maintained projects
+|project | description | languages | inherited from|
+|------- | ----------- | --------- | --------------|
+|pepefetch | fetcher for unix-like systems | rust | [Sigmw](https://github.com/Sigmw)|
 
 ### Future projects
 |project | description | languages | sprint starting|
@@ -44,4 +53,4 @@
 |panzer | control version system | C++ | may/june|
 
 ##### README Credits
-Generated with windflaag::generate.py on 2022-03-23
+Generated with windflaag::generate.py on 2022-03-27

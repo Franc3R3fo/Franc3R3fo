@@ -148,20 +148,37 @@ config = {
         "theme_2": "tokyonight",
         "theme_3": "redical"
     },
+    "CLOSED_PROJECTS": {
+        "type": "DUE",
+        "header": "Closed projects",
+        "columns": ["project", "description", "languages", "close date"],
+        "rows": [
+            ["nord", "a dialect of lisp with its REPL interpreter", "C++", "27/03/2022"]
+        ]
+    },
     "ACTIVE_PROJECTS": {
         "type": "DUE",
         "header": "Active projects",
         "columns": ["project", "description", "languages", "current sprint deadline"],
         "rows": [
-            ["nord", "a dialect of lisp with its REPL interpreter", "C++", "mid april 2022"],
             ["concurrency", "experiments about concurrency", "C++", "mid april 2022"]
+        ]
+    },
+    "MAINTAINED_PROJECTS": {
+        "type": "DUE",
+        "header": "Maintained projects",
+        "columns": ["project", "description", "languages", "inherited from"],
+        "rows": [
+            ["pepefetch", "fetcher for unix-like systems", "rust", "[Sigmw](https://github.com/Sigmw)"]
         ]
     },
     "FUTURE_PROJECTS": {
         "type": "DUE",
         "header": "Future projects",
         "columns": ["project", "description", "languages", "sprint starting"],
-        "rows": [ ["panzer", "control version system", "C++", "may/june"] ],
+        "rows": [
+            ["panzer", "control version system", "C++", "may/june"]
+        ],
     }
 }
 
