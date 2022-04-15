@@ -7,13 +7,13 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-lightgrey.svg) ![C++](https://img.shields.io/badge/-C++-red.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightgreen.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-lightviolet.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-orange.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-green.svg)
+![C](https://img.shields.io/badge/-C-blue.svg) ![C++](https://img.shields.io/badge/-C++-lightviolet.svg) ![JAVA](https://img.shields.io/badge/-JAVA-green.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-lightyellow.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-orange.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-grey.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-green.svg) ![ARCH](https://img.shields.io/badge/-ARCH-violet.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-blue.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-blue.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightgrey.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-violet.svg) ![ARCH](https://img.shields.io/badge/-ARCH-violet.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-orange.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightgreen.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightgrey.svg)
 
 ### Editors i use
-![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-yellow.svg) ![VIM](https://img.shields.io/badge/-VIM-lightblue.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-orange.svg) ![MICRO](https://img.shields.io/badge/-MICRO-violet.svg)
+![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightblue.svg) ![VIM](https://img.shields.io/badge/-VIM-green.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-violet.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightred.svg)
 
 ### My Github statistics
 
@@ -40,6 +40,7 @@
 ### Active projects
 |project | description | languages | current sprint deadline|
 |------- | ----------- | --------- | -----------------------|
+|bignum | big integer and big double libraries for C++ | C++ | late may 2022|
 |concurrency | experiments about concurrency | C++ | end april 2022|
 
 ### Maintained projects
@@ -50,7 +51,6 @@
 ### Future projects
 |project | description | languages | sprint starting|
 |------- | ----------- | --------- | ---------------|
-|bignum | big integer and big float libraries for C++ | C++ | TBD|
 |caravan | statistic AI experiments | C++ | TBD|
 |silver | lisp interpreter | C++ | TBD|
 |panzer | control version system | C++ | TBD|

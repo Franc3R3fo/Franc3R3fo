@@ -161,6 +161,7 @@ config = {
         "header": "Active projects",
         "columns": ["project", "description", "languages", "current sprint deadline"],
         "rows": [
+            ["bignum", "big integer and big double libraries for C++", "C++", "late may 2022"],
             ["concurrency", "experiments about concurrency", "C++", "end april 2022"]
         ]
     },
@@ -177,7 +178,6 @@ config = {
         "header": "Future projects",
         "columns": ["project", "description", "languages", "sprint starting"],
         "rows": [
-            ["bignum", "big integer and big float libraries for C++", "C++", "TBD"],
             ["caravan", "statistic AI experiments", "C++", "TBD"],
             ["silver", "lisp interpreter", "C++", "TBD"],
             ["panzer", "control version system", "C++", "TBD"]
