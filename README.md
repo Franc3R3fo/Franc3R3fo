@@ -7,13 +7,13 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-grey.svg) ![C++](https://img.shields.io/badge/-C++-lightgrey.svg) ![JAVA](https://img.shields.io/badge/-JAVA-red.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-grey.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightyellow.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-lightred.svg)
+![C](https://img.shields.io/badge/-C-lightgrey.svg) ![C++](https://img.shields.io/badge/-C++-red.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightgreen.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-lightviolet.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-orange.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-green.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-grey.svg) ![ARCH](https://img.shields.io/badge/-ARCH-grey.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-lightred.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-red.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightgreen.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-green.svg) ![ARCH](https://img.shields.io/badge/-ARCH-violet.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-blue.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-blue.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightgrey.svg)
 
 ### Editors i use
-![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightred.svg) ![VIM](https://img.shields.io/badge/-VIM-lightgrey.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-violet.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightred.svg)
+![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-yellow.svg) ![VIM](https://img.shields.io/badge/-VIM-lightblue.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-orange.svg) ![MICRO](https://img.shields.io/badge/-MICRO-violet.svg)
 
 ### My Github statistics
 
@@ -40,7 +40,7 @@
 ### Active projects
 |project | description | languages | current sprint deadline|
 |------- | ----------- | --------- | -----------------------|
-|concurrency | experiments about concurrency | C++ | mid april 2022|
+|concurrency | experiments about concurrency | C++ | end april 2022|
 
 ### Maintained projects
 |project | description | languages | inherited from|
@@ -50,7 +50,10 @@
 ### Future projects
 |project | description | languages | sprint starting|
 |------- | ----------- | --------- | ---------------|
-|panzer | control version system | C++ | may/june|
+|bignum | big integer and big float libraries for C++ | C++ | TBD|
+|caravan | statistic AI experiments | C++ | TBD|
+|silver | lisp interpreter | C++ | TBD|
+|panzer | control version system | C++ | TBD|
 
 ##### README Credits
-Generated with windflaag::generate.py on 2022-03-27
+Generated with windflaag::generate.py on 2022-04-15
