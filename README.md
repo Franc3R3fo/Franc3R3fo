@@ -7,13 +7,19 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-lightred.svg) ![C++](https://img.shields.io/badge/-C++-orange.svg) ![JAVA](https://img.shields.io/badge/-JAVA-yellow.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-grey.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightgreen.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-blue.svg)
+![C](https://img.shields.io/badge/-C-green.svg) ![C++](https://img.shields.io/badge/-C++-green.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightred.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-lightblue.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightyellow.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-orange.svg) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-lightgreen.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-orange.svg) ![ARCH](https://img.shields.io/badge/-ARCH-lightgrey.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-lightgrey.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightgrey.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightyellow.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-lightgreen.svg) ![ARCH](https://img.shields.io/badge/-ARCH-lightviolet.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-lightviolet.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightyellow.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-violet.svg)
 
 ### Editors i use
-![VSCODE](https://img.shields.io/badge/-VSCODE-lightyellow.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightgreen.svg) ![VIM](https://img.shields.io/badge/-VIM-orange.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-violet.svg)
+![VSCODE](https://img.shields.io/badge/-VSCODE-red.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-orange.svg) ![VIM](https://img.shields.io/badge/-VIM-blue.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-orange.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightyellow.svg)
+
+### Build systems i use
+![Unix Makefile](https://img.shields.io/badge/-Unix Makefile-grey.svg) ![CMake](https://img.shields.io/badge/-CMake-lightblue.svg) ![Ninja](https://img.shields.io/badge/-Ninja-violet.svg)
+
+### Technologies i've used
+![Docker](https://img.shields.io/badge/-Docker-lightred.svg) ![NodeJS](https://img.shields.io/badge/-NodeJS-lightyellow.svg)
 
 ### My Github statistics
 

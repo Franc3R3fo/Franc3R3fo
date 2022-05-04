@@ -124,7 +124,7 @@ config = {
         "type": "ZERO",
         "header": "Languages i know",
         "things": ["C", "C++", "JAVA", "PYTHON", "PROLOG", "COMMON%20LISP", "JAVASCRIPT"],
-        "colors": Colors.random_colors(6)
+        "colors": Colors.random_colors(7)
     },
     "OS": {
         "type": "ZERO",
@@ -136,7 +136,19 @@ config = {
         "type": "ZERO",
         "header": "Editors i use",
         "things": ["VSCODE", "NOTEPAD++", "VIM", "GNU%20EMACS", "MICRO"],
+        "colors": Colors.random_colors(5)
+    },
+    "BUILD_SYSTEMS": {
+        "type": "ZERO",
+        "header": "Build systems i use",
+        "things": ["Unix Makefile", "CMake", "Ninja"],
         "colors": Colors.random_colors(4)
+    },
+    "TECHNOLOGIES": {
+        "type": "ZERO",
+        "header": "Technologies i've used",
+        "things": ["Docker", "NodeJS"],
+        "colors": Colors.random_colors(2)
     },
     "STATISTICS": {
         "header": "My Github statistics",
