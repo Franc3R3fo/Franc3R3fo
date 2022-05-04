@@ -141,7 +141,7 @@ config = {
     "BUILD_SYSTEMS": {
         "type": "ZERO",
         "header": "Build systems i use",
-        "things": ["Unix Makefile", "CMake", "Ninja"],
+        "things": ["Makefile", "CMake", "Ninja"],
         "colors": Colors.random_colors(4)
     },
     "TECHNOLOGIES": {

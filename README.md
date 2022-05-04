@@ -7,19 +7,19 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-green.svg) ![C++](https://img.shields.io/badge/-C++-green.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightred.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-lightblue.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightyellow.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-orange.svg) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-lightgreen.svg)
+![C](https://img.shields.io/badge/-C-lightgreen.svg) ![C++](https://img.shields.io/badge/-C++-red.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightviolet.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-blue.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-violet.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-lightyellow.svg) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-lightyellow.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-lightgreen.svg) ![ARCH](https://img.shields.io/badge/-ARCH-lightviolet.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-lightviolet.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightyellow.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-violet.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-lightyellow.svg) ![ARCH](https://img.shields.io/badge/-ARCH-blue.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-green.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightyellow.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightyellow.svg)
 
 ### Editors i use
-![VSCODE](https://img.shields.io/badge/-VSCODE-red.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-orange.svg) ![VIM](https://img.shields.io/badge/-VIM-blue.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-orange.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightyellow.svg)
+![VSCODE](https://img.shields.io/badge/-VSCODE-lightgrey.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightgrey.svg) ![VIM](https://img.shields.io/badge/-VIM-lightgreen.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-yellow.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightviolet.svg)
 
 ### Build systems i use
-![Unix Makefile](https://img.shields.io/badge/-Unix Makefile-grey.svg) ![CMake](https://img.shields.io/badge/-CMake-lightblue.svg) ![Ninja](https://img.shields.io/badge/-Ninja-violet.svg)
+![Makefile](https://img.shields.io/badge/-Makefile-blue.svg) ![CMake](https://img.shields.io/badge/-CMake-blue.svg) ![Ninja](https://img.shields.io/badge/-Ninja-lightyellow.svg)
 
 ### Technologies i've used
-![Docker](https://img.shields.io/badge/-Docker-lightred.svg) ![NodeJS](https://img.shields.io/badge/-NodeJS-lightyellow.svg)
+![Docker](https://img.shields.io/badge/-Docker-grey.svg) ![NodeJS](https://img.shields.io/badge/-NodeJS-grey.svg)
 
 ### My Github statistics
 
