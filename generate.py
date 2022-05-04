@@ -123,7 +123,7 @@ config = {
     "LANGUAGES": {
         "type": "ZERO",
         "header": "Languages i know",
-        "things": ["C", "C++", "JAVA", "PYTHON", "PROLOG", "COMMON%20LISP"],
+        "things": ["C", "C++", "JAVA", "PYTHON", "PROLOG", "COMMON%20LISP", "JAVASCRIPT"],
         "colors": Colors.random_colors(6)
     },
     "OS": {
@@ -135,7 +135,7 @@ config = {
     "EDITORS": {
         "type": "ZERO",
         "header": "Editors i use",
-        "things": ["NOTEPAD++", "VIM", "GNU%20EMACS", "MICRO"],
+        "things": ["VSCODE", "NOTEPAD++", "VIM", "GNU%20EMACS", "MICRO"],
         "colors": Colors.random_colors(4)
     },
     "STATISTICS": {
@@ -153,7 +153,8 @@ config = {
         "header": "Closed projects",
         "columns": ["project", "description", "languages", "close date"],
         "rows": [
-            ["nord", "a dialect of lisp with its REPL interpreter", "C++", "27/03/2022"]
+            ["nord", "a dialect of lisp with its REPL interpreter", "C++", "27/03/2022"],
+            ["concurrency", "experiments about concurrency", "C++", "04/05/2022"]
         ]
     },
     "ACTIVE_PROJECTS": {
@@ -162,7 +163,7 @@ config = {
         "columns": ["project", "description", "languages", "current sprint deadline"],
         "rows": [
             ["bignum", "big integer and big double libraries for C++", "C++", "late may 2022"],
-            ["concurrency", "experiments about concurrency", "C++", "end april 2022"]
+            ["alessandria", "distributate system for a liberary", "javascript, python", "late may 2022"],
         ]
     },
     "MAINTAINED_PROJECTS": {

@@ -7,13 +7,13 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-blue.svg) ![C++](https://img.shields.io/badge/-C++-lightviolet.svg) ![JAVA](https://img.shields.io/badge/-JAVA-green.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-lightyellow.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-orange.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-grey.svg)
+![C](https://img.shields.io/badge/-C-lightred.svg) ![C++](https://img.shields.io/badge/-C++-orange.svg) ![JAVA](https://img.shields.io/badge/-JAVA-yellow.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-grey.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightgreen.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-blue.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-violet.svg) ![ARCH](https://img.shields.io/badge/-ARCH-violet.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-orange.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightgreen.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightgrey.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-orange.svg) ![ARCH](https://img.shields.io/badge/-ARCH-lightgrey.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-lightgrey.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightgrey.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightyellow.svg)
 
 ### Editors i use
-![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightblue.svg) ![VIM](https://img.shields.io/badge/-VIM-green.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-violet.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightred.svg)
+![VSCODE](https://img.shields.io/badge/-VSCODE-lightyellow.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightgreen.svg) ![VIM](https://img.shields.io/badge/-VIM-orange.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-violet.svg)
 
 ### My Github statistics
 
@@ -36,12 +36,13 @@
 |project | description | languages | close date|
 |------- | ----------- | --------- | ----------|
 |nord | a dialect of lisp with its REPL interpreter | C++ | 27/03/2022|
+|concurrency | experiments about concurrency | C++ | 04/05/2022|
 
 ### Active projects
 |project | description | languages | current sprint deadline|
 |------- | ----------- | --------- | -----------------------|
 |bignum | big integer and big double libraries for C++ | C++ | late may 2022|
-|concurrency | experiments about concurrency | C++ | end april 2022|
+|alessandria | distributate system for a liberary | javascript, python | late may 2022|
 
 ### Maintained projects
 |project | description | languages | inherited from|
@@ -56,4 +57,4 @@
 |panzer | control version system | C++ | TBD|
 
 ##### README Credits
-Generated with windflaag::generate.py on 2022-04-15
+Generated with windflaag::generate.py on 2022-05-04
