@@ -7,19 +7,19 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-lightgreen.svg) ![C++](https://img.shields.io/badge/-C++-red.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightviolet.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-blue.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-violet.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-lightyellow.svg) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-lightyellow.svg)
+![C](https://img.shields.io/badge/-C-orange.svg) ![C++](https://img.shields.io/badge/-C++-lightviolet.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightyellow.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-blue.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-violet.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-yellow.svg) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-lightviolet.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-lightyellow.svg) ![ARCH](https://img.shields.io/badge/-ARCH-blue.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-green.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-lightyellow.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightyellow.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-lightyellow.svg) ![ARCH](https://img.shields.io/badge/-ARCH-blue.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-orange.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-red.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-violet.svg)
 
 ### Editors i use
-![VSCODE](https://img.shields.io/badge/-VSCODE-lightgrey.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-lightgrey.svg) ![VIM](https://img.shields.io/badge/-VIM-lightgreen.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-yellow.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightviolet.svg)
+![VSCODE](https://img.shields.io/badge/-VSCODE-orange.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-blue.svg) ![VIM](https://img.shields.io/badge/-VIM-red.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-red.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightyellow.svg)
 
 ### Build systems i use
-![Makefile](https://img.shields.io/badge/-Makefile-blue.svg) ![CMake](https://img.shields.io/badge/-CMake-blue.svg) ![Ninja](https://img.shields.io/badge/-Ninja-lightyellow.svg)
+![Makefile](https://img.shields.io/badge/-Makefile-lightviolet.svg) ![CMake](https://img.shields.io/badge/-CMake-violet.svg) ![Ninja](https://img.shields.io/badge/-Ninja-grey.svg)
 
 ### Technologies i've used
-![Docker](https://img.shields.io/badge/-Docker-grey.svg) ![NodeJS](https://img.shields.io/badge/-NodeJS-grey.svg)
+![Docker](https://img.shields.io/badge/-Docker-yellow.svg) ![NodeJS](https://img.shields.io/badge/-NodeJS-lightgrey.svg)
 
 ### My Github statistics
 
@@ -38,29 +38,10 @@
 
 </p>
         
-### Closed projects
-|project | description | languages | close date|
-|------- | ----------- | --------- | ----------|
-|nord | a dialect of lisp with its REPL interpreter | C++ | 27/03/2022|
-|concurrency | experiments about concurrency | C++ | 04/05/2022|
-
 ### Active projects
 |project | description | languages | current sprint deadline|
 |------- | ----------- | --------- | -----------------------|
-|bignum | big integer and big double libraries for C++ | C++ | late may 2022|
-|alessandria | distributate system for a liberary | javascript, python | late may 2022|
-
-### Maintained projects
-|project | description | languages | inherited from|
-|------- | ----------- | --------- | --------------|
-|pepefetch | fetcher for unix-like systems | rust | [Sigmw](https://github.com/Sigmw)|
-
-### Future projects
-|project | description | languages | sprint starting|
-|------- | ----------- | --------- | ---------------|
-|caravan | statistic AI experiments | C++ | TBD|
-|silver | lisp interpreter | C++ | TBD|
-|panzer | control version system | C++ | TBD|
+| |  |  | |
 
 ##### README Credits
-Generated with windflaag::generate.py on 2022-05-04
+Generated with windflaag::generate.py on 2022-05-12
