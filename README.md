@@ -7,19 +7,19 @@
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class
 
 ### Languages i know
-![C](https://img.shields.io/badge/-C-orange.svg) ![C++](https://img.shields.io/badge/-C++-lightviolet.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightyellow.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-blue.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-violet.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-yellow.svg) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-lightviolet.svg)
+![C](https://img.shields.io/badge/-C-lightgrey.svg) ![C++](https://img.shields.io/badge/-C++-lightyellow.svg) ![JAVA](https://img.shields.io/badge/-JAVA-lightyellow.svg) ![PYTHON](https://img.shields.io/badge/-PYTHON-yellow.svg) ![PROLOG](https://img.shields.io/badge/-PROLOG-lightred.svg) ![COMMON%20LISP](https://img.shields.io/badge/-COMMON%20LISP-lightblue.svg) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-lightviolet.svg)
 
 ### OS i prefer
-![FEDORA](https://img.shields.io/badge/-FEDORA-lightyellow.svg) ![ARCH](https://img.shields.io/badge/-ARCH-blue.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-orange.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-red.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-violet.svg)
+![FEDORA](https://img.shields.io/badge/-FEDORA-red.svg) ![ARCH](https://img.shields.io/badge/-ARCH-grey.svg) ![DEBIAN](https://img.shields.io/badge/-DEBIAN-orange.svg) ![GENTOO](https://img.shields.io/badge/-GENTOO-violet.svg) ![SLACKWARE](https://img.shields.io/badge/-SLACKWARE-lightgreen.svg)
 
 ### Editors i use
-![VSCODE](https://img.shields.io/badge/-VSCODE-orange.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-blue.svg) ![VIM](https://img.shields.io/badge/-VIM-red.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-red.svg) ![MICRO](https://img.shields.io/badge/-MICRO-lightyellow.svg)
+![VSCODE](https://img.shields.io/badge/-VSCODE-orange.svg) ![NOTEPAD++](https://img.shields.io/badge/-NOTEPAD++-yellow.svg) ![VIM](https://img.shields.io/badge/-VIM-green.svg) ![GNU%20EMACS](https://img.shields.io/badge/-GNU%20EMACS-lightblue.svg) ![MICRO](https://img.shields.io/badge/-MICRO-violet.svg)
 
 ### Build systems i use
-![Makefile](https://img.shields.io/badge/-Makefile-lightviolet.svg) ![CMake](https://img.shields.io/badge/-CMake-violet.svg) ![Ninja](https://img.shields.io/badge/-Ninja-grey.svg)
+![Makefile](https://img.shields.io/badge/-Makefile-lightblue.svg) ![CMake](https://img.shields.io/badge/-CMake-lightred.svg) ![Ninja](https://img.shields.io/badge/-Ninja-grey.svg)
 
 ### Technologies i've used
-![Docker](https://img.shields.io/badge/-Docker-yellow.svg) ![NodeJS](https://img.shields.io/badge/-NodeJS-lightgrey.svg)
+![Docker](https://img.shields.io/badge/-Docker-orange.svg) ![NodeJS](https://img.shields.io/badge/-NodeJS-green.svg)
 
 ### My Github statistics
 
@@ -43,5 +43,17 @@
 |------- | ----------- | --------- | -----------------------|
 | |  |  | |
 
+### University projects
+|project | description | languages | status|
+|------- | ----------- | --------- | ------|
+|sistema-bancario | bank project for Distributed System assignment | C++, SQL, Web3 | dead|
+|oo-ext | object oriented extension for programming languages | Lisp / Prolog | zombie|
+
+### Comfort projects
+|project | description | languages | status|
+|------- | ----------- | --------- | ------|
+|eurogen | my personal latex cv generator | Python / Latex | zombie|
+|windflaag | my github presentation page generator | Python | zombie|
+
 ##### README Credits
-Generated with windflaag::generate.py on 2022-05-12
+Generated with windflaag::generate.py on 2022-09-04

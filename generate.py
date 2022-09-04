@@ -167,6 +167,24 @@ config = {
         "rows": [
             ["", "", "", ""]
         ]
+    },
+    "UNIVERSITY_PROJECTS": {
+        "type": "DUE",
+        "header": "University projects",
+        "columns": ["project", "description", "languages", "status"],
+        "rows": [
+            ["sistema-bancario", "bank project for Distributed System assignment", "C++, SQL, Web3", "dead"],
+            ["oo-ext", "object oriented extension for programming languages", "Lisp / Prolog", "zombie"]
+        ]
+    },
+    "COMFORT_PROJECTS": {
+        "type": "DUE",
+        "header": "Comfort projects",
+        "columns": ["project", "description", "languages", "status"],
+        "rows": [
+            ["eurogen", "my personal latex cv generator", "Python / Latex", "zombie"],
+            ["windflaag", "my github presentation page generator", "Python", "zombie"]
+        ]
     }
 }
 
