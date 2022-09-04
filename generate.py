@@ -185,6 +185,16 @@ config = {
             ["eurogen", "my personal latex cv generator", "Python / Latex", "zombie"],
             ["windflaag", "my github presentation page generator", "Python", "zombie"]
         ]
+    },
+    "PROJECTS_STATUSES": {
+        "type": "DUE",
+        "header": "Status of projects",
+        "columns": ["status", "meaning"],
+        "rows": [
+            ["active", "periodly updated"],
+            ["zombie", "a dead project that occasionally walks"],
+            ["dead", "dead, null to very very few chance of being a zombie"]
+        ]
     }
 }
 
