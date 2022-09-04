@@ -117,7 +117,7 @@ config = {
         "header": "Bio",
         "payload": """- 👋 Hi, I’m Francesco Refolli
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently on 2° Year of Informatica Triennale @ Milano Bicocca
+- 🌱 I’m currently on 3° Year of Informatica Triennale @ Milano Bicocca
 - 💞️ I’m looking to collaborate on Java Class Library in order to add nextChar() in Scanner class"""
     },
     "LANGUAGES": {
