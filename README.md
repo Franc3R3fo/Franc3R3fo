@@ -1,10 +1,11 @@
-# windflaag
+# frefolli
 
 ## Bio
 
 - 👋 Hi, I’m Francesco Refolli
 - 👀 I’m interested in Computer Science and Railways
-- 🌱 I’m currently on 3rd year of Bachelor's Degree in Computer Science at Universita' degli studi di Milano Bicocca
+- 📚 I’m currently on 1st year of Master's Degree in Computer Science at Universita' degli studi di Milano Bicocca
+- 🛠️ I used to work as Software Engineer at Binary System SRL
 - 💞️ I’m looking to add java.util.Scanner.nextChar() method
 
 ## Languages
@@ -64,14 +65,27 @@ mindmap
     Meson
 ```
 
+## Libraries
+
+```mermaid
+mindmap
+  root(Libraries)
+    libgc
+    libutils
+    libhyper
+    libclipp
+    liblexer
+    libparser
+    liblogger
+    libajax
+```
+
 ## Stats
 
 <center>
   <table width="100%">
-    <tr><td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=windflaag&show_icons=true&theme=tokyonight"/></td></tr>
-    <tr><td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windflaag&layout=compact&langs_count=12&theme=tokyonight"/></td></tr>
-    <tr><td><img width="100%" src="https://github-profile-trophy.vercel.app/?username=windflaag"/></td></tr>
+    <tr><td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=frefolli&show_icons=true&theme=tokyonight"/></td></tr>
+    <tr><td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frefolli&layout=compact&langs_count=12&theme=tokyonight"/></td></tr>
+    <tr><td><img width="100%" src="https://github-profile-trophy.vercel.app/?username=frefolli"/></td></tr>
   </table>
 </center>
-
-generated with windflaag/github-profile
